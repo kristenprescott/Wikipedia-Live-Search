@@ -19,6 +19,7 @@ const Searchbar = () => {
       });
       setResults(data.query.search);
     };
+    
     // run search immediately if this is initial page load
     if (term && !results.length) {
       search();
@@ -71,7 +72,7 @@ const Searchbar = () => {
     <div>
       <div className="search-container">
         <div className="search-wrapper">
-          <label className="search-input-label">Search Wikipedia: </label>{" "}
+          <label className="search-input-label">Search Wikipedia: </label>
           <input
             className="search-input"
             value={term}
