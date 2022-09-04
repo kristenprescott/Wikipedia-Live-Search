@@ -1,4 +1,4 @@
-# Simple Wikipedia Searchbar component
+# Wikipedia Live Search
 
 <details><summary>This project was bootstrapped with Create React App</summary>
 
