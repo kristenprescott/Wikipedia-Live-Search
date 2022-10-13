@@ -3,7 +3,7 @@
 ## First things first...
 
 
-This project was **heavily** inspired by [this post by Nick Coughlin](https://ncoughlin.com/posts/react-xss-attack/). Really, it's almost a direct copy including informative comments. I followed along for learning purposes and I can highly recommend checking out Nick's site! Whether you're a newer developer or more experienced, there are a lot of great posts over there!
+This project was **heavily** inspired by [this post by Nick Coughlin](https://ncoughlin.com/posts/react-xss-attack/). Really, it's almost a direct copy including informative comments. I followed along for learning purposes and I can highly recommend checking out Nick's site - whether you're a newer developer or more experienced, there are a lot of great posts over there.
 
 ## Overview
 
